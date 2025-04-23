@@ -1,0 +1,22 @@
+body{
+    background-image: url("portada-final-alpura-WP.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+    text-align: center;
+
+}
+body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.parrafo{
+    color: aliceblue;
+    font-size: 20px;
+}
+.form{
+    color: aliceblue;
+    font-size: 20px;
+}
+#contacto{
+    color: antiquewhite;
+}
